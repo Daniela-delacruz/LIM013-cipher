@@ -47,7 +47,7 @@ La temática es kids, una web disfrazada de juego para:
 
 * Mensajería secreta para niños que sufren cualquier tipo de abuso o maltrato infantil.
 
-![Criptomanía-Kids](src/imagen/cipher.jpeg)
+![cipher](https://user-images.githubusercontent.com/68177371/99621658-7665aa80-29f6-11eb-8adc-e193328c5ecf.jpeg)
 
 # CRIPTOMANÍA KIDS
 
