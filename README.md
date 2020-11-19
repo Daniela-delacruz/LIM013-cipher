@@ -93,7 +93,7 @@ Ministerio de protección del niño, niña y adolescente)
 ## 4.PROTOTIPO DE PAPEL
 Mi primer prototio en papel, teniendo en cuenta las historias de usuario
 
-![Primer prototipo](src/imagen/Primerprototipo.jpeg)
+![Primerprototipo](https://user-images.githubusercontent.com/68177371/99622018-4a96f480-29f7-11eb-85a3-8c925890ec77.jpeg)
 
 
 El feedback en cuanto al proyecto: 
