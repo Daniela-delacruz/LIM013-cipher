@@ -113,7 +113,9 @@ Este es el prototipo final de mi proyecto, realizado en balsamiq
 
 ![balsamiq](https://user-images.githubusercontent.com/68177371/99621870-ed02a800-29f6-11eb-91b4-1361e5f6d4b1.jpeg)
 
-EL FLUJO DEL PROYECTO
+Este es el prototipo final de mi proyecto, realizado en balsamiq
+![Prototipo final](Imagen/balsamiq.png)
 
+## EL FLUJO DEL PROYECTO
 ![diagrama](https://user-images.githubusercontent.com/68177371/99622451-2d165a80-29f8-11eb-8ede-98b127792bcb.jpeg)
 
